@@ -211,9 +211,9 @@ it cannot be edited. Target: submit **Friday 2026-11-13**.
 - [x] Push this repo to a **public** GitHub repository. Done 2026-11-04: https://github.com/georgeonweb3/near-guard
 - [x] Record a demo video: the local demo refusing the injection attack, plus the on-chain execute calls. Done 2026-11-04 (73s, 1080p, produced by Muse; posting with the X post below).
       plus the on-chain `execute` calls.
-- [ ] Publish the demo post on X (human posts it): it must say the project
+- [x] Publish the demo post on X (human posts it): it must say the project
       was built at NEAR HACKATHON, tag @NEARProtocol and #NEARHackathon,
-      and attach the video.
+      and attach the video. Done 2026-11-04: https://x.com/georgebuilding2/status/2117936258848559574
 - [ ] Prepare a NEAR **mainnet** account address for the payout field
       (a named `*.near` or a 64-character implicit account, created by the
       team lead in any NEAR wallet; nothing needs to be funded).
