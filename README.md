@@ -214,20 +214,16 @@ it cannot be edited. Target: submit **Friday 2026-11-13**.
 - [x] Publish the demo post on X (human posts it): it must say the project
       was built at NEAR HACKATHON, tag @NEARProtocol and #NEARHackathon,
       and attach the video. Done 2026-11-04: https://x.com/georgebuilding2/status/2117936258848559574
-- [ ] Prepare a NEAR **mainnet** account address for the payout field
+- [x] Prepare a NEAR **mainnet** account address for the payout field
       (a named `*.near` or a 64-character implicit account, created by the
       team lead in any NEAR wallet; nothing needs to be funded).
+      Done: implicit account supplied by the team lead 2026-11-04.
 - [x] Submit once at https://nearhackathon.com/#apply with: project name,
       team lead name, email, team size `1`, tracks `security` and `agents`,
       payout address, repo link, demo post link, description (20–2000
       chars), and consent — after confirming the exact payload.
       SUBMITTED 2026-11-04: confirmation page read "SUBMISSION RECEIVED /
-      You're on the radar!" Results announced 18 Nov 2026. (Duplicate
-      checklist line below is the original pre-submission note.)
-- [ ] (superseded) Submit once at https://nearhackathon.com/#apply with: project name,
-      team lead name, email, team size `1`, tracks `security` and `agents`,
-      payout address, repo link, demo post link, description (20–2000
-      chars), and consent — after confirming the exact payload.
+      You're on the radar!" Results announced 18 Nov 2026.
 
 Draft description for the submission (approve before use):
 
