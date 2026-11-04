@@ -208,7 +208,7 @@ Per the official HACKATHON.md (nearhackathon.com/HACKATHON.md), there is
 it cannot be edited. Target: submit **Friday 2026-11-13**.
 
 - [x] Deploy to testnet (above) and run the on-chain demo. Done 2026-11-04, see DEPLOYMENT.md.
-- [ ] Push this repo to a **public** GitHub repository.
+- [x] Push this repo to a **public** GitHub repository. Done 2026-11-04: https://github.com/georgeonweb3/near-guard
 - [ ] Record a demo video: the local demo refusing the injection attack,
       plus the on-chain `execute` calls.
 - [ ] Publish the demo post on X (human posts it): it must say the project
