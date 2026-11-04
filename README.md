@@ -217,7 +217,14 @@ it cannot be edited. Target: submit **Friday 2026-11-13**.
 - [ ] Prepare a NEAR **mainnet** account address for the payout field
       (a named `*.near` or a 64-character implicit account, created by the
       team lead in any NEAR wallet; nothing needs to be funded).
-- [ ] Submit once at https://nearhackathon.com/#apply with: project name,
+- [x] Submit once at https://nearhackathon.com/#apply with: project name,
+      team lead name, email, team size `1`, tracks `security` and `agents`,
+      payout address, repo link, demo post link, description (20–2000
+      chars), and consent — after confirming the exact payload.
+      SUBMITTED 2026-11-04: confirmation page read "SUBMISSION RECEIVED /
+      You're on the radar!" Results announced 18 Nov 2026. (Duplicate
+      checklist line below is the original pre-submission note.)
+- [ ] (superseded) Submit once at https://nearhackathon.com/#apply with: project name,
       team lead name, email, team size `1`, tracks `security` and `agents`,
       payout address, repo link, demo post link, description (20–2000
       chars), and consent — after confirming the exact payload.
